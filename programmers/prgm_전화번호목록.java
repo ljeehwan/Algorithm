@@ -2,7 +2,7 @@ package programmers;
 
 import java.util.HashMap;
 
-public class prgm_ÀüÈ­¹øÈ£¸ñ·Ï {
+public class prgm_ì „í™”ë²ˆí˜¸ëª©ë¡ {
 	public static void main(String[] args) {
 		String[] phone_book = {"119", "97674223", "1195524421"};
 		
